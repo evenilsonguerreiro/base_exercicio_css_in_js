@@ -1,11 +1,7 @@
 import { Main } from './styles'
 
 const Hero = () => (
-  <Main>
-    <div>
-      <h2>As melhores vagas para tecnologia, design e artes visuais.</h2>
-    </div>
-  </Main>
+  <Main>As melhores vagas para tecnologia, design e artes visuais.</Main>
 )
 
 export default Hero
